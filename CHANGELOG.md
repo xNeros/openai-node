@@ -1,5 +1,13 @@
 # Changelog
 
+## 4.4.1 (2023-09-01)
+
+Full Changelog: [v4.4.0...v4.4.1](https://github.com/openai/openai-node/compare/v4.4.0...v4.4.1)
+
+### Bug Fixes
+
+* **client:** use explicit file extensions in _shims imports ([#276](https://github.com/openai/openai-node/issues/276)) ([554fc94](https://github.com/openai/openai-node/commit/554fc9480db1eb8b513285aa53a336abd469bd11))
+
 ## 4.4.0 (2023-09-01)
 
 Full Changelog: [v4.3.1...v4.4.0](https://github.com/openai/openai-node/compare/v4.3.1...v4.4.0)
